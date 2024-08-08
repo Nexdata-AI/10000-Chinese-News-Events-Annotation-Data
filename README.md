@@ -3,7 +3,7 @@
 ## Description
 10,000 Chinese news event annotated data. The contents are hot news in 2013. Each piece of news contains one or more events. Each event is annotated. The data is stored in xml and can be used for natural language understanding.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/82?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/nlu/82?source=Github
 
 
 # Specifications
